@@ -97,7 +97,7 @@ body {
 /*
     Now let's bring some text styles back ...
 */
-b, strong { font-weight: bold }
+b, strong { font-weight: bold; text-align: center; }
 i, em { font-style: italic }
 
 /*
